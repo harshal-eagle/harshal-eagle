@@ -1,11 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
-
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A passionate Fullsatck developer from India</h3>
-<img alt="coding" width="400" align ="right" src="[![image](https://github.com/harshal-eagle/harshal-eagle/assets/138421230/d14cdd44-042d-4e70-ba96-4149c61ac09b)](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611r71kf6jpon3ay3q5ckc9rcgguv2udo1oscv5tamd&ep=v1_gifs_search&rid=giphy.gif&ct=g)"" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal-eagle&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-eagle" /> </p>
 
 - 🔭 I’m currently working on **Full stack project**
@@ -18,7 +12,7 @@
 
 - 📫 How to reach me **21512348.dypit@dypvp.edu.in**
 
-- ⚡ Fun fact **I'm  gamer**
+- ⚡ Fun fact **I'm a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋, I'm Harsha<br>A passionate Fullsatck developer from India<br><br><br>- 🔭 I’m currently working on **Full stack project**<br><br>- 🌱 I’m currently learning **Backend**<br><br>- 👨‍💻 All of my projects are available at [https://portfolio-website-git-main-harshals-projects-2c40586e.vercel.app/](https://portfolio-website-git-main-harshals-projects-2c40586e.vercel.app/)<br><br>- 💬 Ask me about **React**<br><br>- 📫 How to reach me **21512348.dypit@dypvp.edu.in**<br><br>- ⚡ Fun fact **I'm a gamer**</h2>
+<h2 align="left">Hi 👋, I'm Harsha<br>A passionate Fullsatck developer from India<br><br><br>- 🔭 I’m currently working on **Full stack project**<br><br>- 🌱 I’m currently learning **Backend**<br><br>- 👨‍💻 All of my projects are available at [Link] (https://portfolio-website-git-main-harshals-projects-2c40586e.vercel.app/)<br><br>- 💬 Ask me about **React**<br><br>- 📫 How to reach me **21512348.dypit@dypvp.edu.in**<br><br>- ⚡ Fun fact **I'm a gamer**</h2>
 
 ###
 
